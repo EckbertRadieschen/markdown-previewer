@@ -42,7 +42,7 @@ textarea {
 }
 
 .previewer p {
-  margin-left: 60px;
+  margin-left: 25vw;
   margin-bottom: 5px;
 }
 
@@ -52,11 +52,11 @@ textarea {
   padding: 10px;
   border-radius: 10px;
   margin-top: 20px;
-  margin-left: 100px;
+  margin-left: 10vw;
 }
 
 .previewer li  {
-  margin-left: 150px;
+  margin-left: 30vw;
 }
 
 .previewer blockquote {
