@@ -1,5 +1,5 @@
 import './App.css'
-import MarkdownUserInput from './MarkDownUserInput'
+import MarkdownUserInput from './MarkdownUserInput'
 import MarkdownPreview from "./MarkdownPreview"
 
 function App() {
